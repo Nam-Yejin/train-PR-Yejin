@@ -1,2 +1,2 @@
-# train-PR-Yejin
+# train-PR-YJ
 PR 연습
